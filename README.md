@@ -1,2 +1,3 @@
-# MicrosoftOrleans_HelloWorld
- Laboratorio Virtualización - Microsoft Orleans
+# Labotarorio Microsoft Orleans Hello World - Virtualización
+
+- Diego Morales - 1132119
